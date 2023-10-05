@@ -1,0 +1,5 @@
+homepage: "https://www.measureschool.com"
+documentation: "https://github.com/agolca123/google-sheets-webhook"
+versions:
+  - sha: 1
+    changeNotes: Initial release.
